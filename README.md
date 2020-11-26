@@ -42,6 +42,6 @@
 
 ## 9. Object oriented JS
 
-![](taskJSOOP/Object_Oriented_JavaScript.png)
+![](taskJsOOP/Object_Oriented_JavaScript.png)
 [CodeWars](https://www.codewars.com/users/Evgeniy241984)
 
