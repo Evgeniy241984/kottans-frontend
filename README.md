@@ -52,7 +52,7 @@
 
 ## 5. HTML & CSS Practic
 
-[HTML CSS Repo](<https://github.com/Evgeniy241984/frontend-2021-homeworks/tree/html-css-popup/submissions/evgeniy24/html-css-popup-demo>)
+[HTML CSS Repo](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/evgeniy24/html-css-popup-demo)
 
 
 ## 6. JS Basics
@@ -92,13 +92,13 @@
 <details>
 <summary>Practical task</summary>
 
-[Practical task Repo](https://github.com/Evgeniy241984/frontend-2021-homeworks/tree/js-dom/submissions/evgeniy24/js-dom)
+[Practical task Repo](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/evgeniy24/js-dom)
 
 </details>
 
 ## 8. Building a Tiny JS World (pre-OOP)
 
-[TinyJS World Repo](https://github.com/kottans/frontend-2021-homeworks/blob/main/submissions/evgeniy24/a-tiny-JS-world/index.js)
+[TinyJS World Repo](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/evgeniy24/a-tiny-JS-world)
 
 ## 9. Object oriented JS
 
@@ -116,12 +116,14 @@
 
 </details>
 
+[Frogger Game](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/evgeniy24/object-oriented-frogger-game)
+
 
 ## 10. OOP exercise
 
-[Tiny World OOP](https://github.com/Evgeniy241984/frontend-2021-homeworks/tree/tiny-world/submissions/evgeniy24/a-tiny-JS-world)
+[Tiny World OOP](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/evgeniy24/a-tiny-JS-world)
 
 
 ## 11. Memory pair game
 
-[PR#173 link](https://github.com/kottans/frontend-2021-homeworks/pull/173)
+[MemoryPairGameFolder](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/evgeniy24/memory-pair-game)
