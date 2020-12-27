@@ -24,6 +24,7 @@
 <summary>GitHub & Collaboration</summary>
 
 ![](taskGitCollaborations/GitHub_Collaboration2.png)
+![](taskGitCollaborations/GitCollaboration_main1.png)
 
 </details>
 
