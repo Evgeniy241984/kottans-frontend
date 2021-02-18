@@ -128,3 +128,8 @@
 ## 11. Memory pair game
 
 [MemoryPairGameFolder](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/evgeniy24/memory-pair-game)
+
+
+## 12. Friends App
+
+[Friends-app](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/evgeniy24/friends_app)
